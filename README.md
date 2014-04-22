@@ -1,6 +1,8 @@
 # venue
 
-A node.js module to create a web radio
+A node.js module to create a web radio.
+
+This will list every single file (subdirectories included) in a folder and will play them randomly while avoiding to repeat a particular song.
 
 ## Dependencies
 
