@@ -1,0 +1,35 @@
+{
+  "name": "venue",
+  "version": "0.1.1",
+  "author": "Saming <contact@saming.fr>",
+  "description": "a simple node.js webradio server",
+  "main": "./venue.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saming/venue.git"
+  },
+  "keywords": [
+    "html5",
+    "audio",
+    "radio",
+    "webradio",
+    "music"
+  ],
+  "dependencies": {
+    "colors": "*",
+    "express": "4.0.x",
+    "socket.io": "0.9.x",
+    "walk": "2.3.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/Saming/venue/issues"
+  },
+  "homepage": "https://github.com/Saming/venue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
