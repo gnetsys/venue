@@ -46,11 +46,11 @@ Every paramerer is optionnal. As soon as you see the line
 
 When first launching venue, without any CSS file attached, this will be the look:
 
-![Alt Text](url)
+![http://i.imgur.com/RVx3fvz.png](url)
 
 Yes, it's not that great, but it was intended to be very flexible, and as such, with a single CSS file and two jpegs dropped into the resource folder, here's a better result:
 
-![Alt Text](url)
+![http://i.imgur.com/lISsNay.png](url)
 
 For any curious person, [here's the CSS](https://gist.github.com/Saming/11176723). It will also help anyone which wants to understand what is possible and how to do it faster.
 
