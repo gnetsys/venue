@@ -1,0 +1,14 @@
+html {
+	font-family: sans-serif; }
+
+#content {
+	display: none; }
+
+#title {
+	margin: 20px 0px; }
+
+#controls {
+	margin: 20px 0px; }
+#controls > div {
+	display: inline; cursor: pointer;
+	color: #00F; text-decoration: underline; }
